@@ -1,0 +1,28 @@
+{
+  "name": "backend_dev",
+  "version": "1.0.0",
+  "description": "This repository is about backend development",
+  "homepage": "https://github.com/Parvez152977/Backend_dev#readme",
+  "bugs": {
+    "url": "https://github.com/Parvez152977/Backend_dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parvez152977/Backend_dev.git"
+  },
+  "license": "ISC",
+  "author": "Parvez_Alam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Backend/src/index.js",
+    "dev": "nodemon Backend/src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4",
+    "nodemon": "^3.1.14"
+  }
+}
