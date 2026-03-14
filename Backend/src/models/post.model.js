@@ -12,7 +12,7 @@ const postSchema = new Schema(
             trim: true,
             required: true
         },
-        age: {
+        age: { 
             type: Number,
             required: true,
             min: 1,
