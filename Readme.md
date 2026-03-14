@@ -25,7 +25,7 @@ A Node.js backend API project with authentication and post management functional
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Parvez152977/Backend_dev.git
 2. Install dependencies:
    ```bash
 
@@ -141,5 +141,4 @@ This README provides:
 
 You can customize the content (like author name and specific endpoints, etc.) based on your actual implementation.
 
-....
 
