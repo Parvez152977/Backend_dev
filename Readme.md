@@ -1,6 +1,6 @@
-# Backend API
+# Backend API Porject
 
-A Node.js backend API with authentication and post management functionality.
+A Node.js backend API project with authentication and post management functionality.
 
 ## 📁 Project Structure
 
@@ -26,23 +26,21 @@ A Node.js backend API with authentication and post management functionality.
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd backend
-
-    Install dependencies:
-    bash
+2. Install dependencies:
+   ```bash
 
     npm install
-
-    Create a .env file in the root directory and add the following variables:
+3. Create a .env file in the root directory and add the following variables:
     env
+   ```bash
 
     PORT=4000
     MONGODB_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret_key
     NODE_ENV=development
 
-    Start the development server:
-    bash
+4. Start the development server:
+    ```bash
 
     npm run dev
 
