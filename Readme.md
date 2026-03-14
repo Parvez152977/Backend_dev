@@ -91,21 +91,18 @@ Main dependencies include:
     nodemon
 
 🚦 Running the Application
-Development
-bash
+1. Development
+   ```bash
+      npm run dev
 
-npm run dev
-
-Production
-bash
-
-npm start
+2. Production
+   ```bash
+      npm start
 
 🧪 Testing
-bash
-
-npm test
-
+   ```bash
+      npm test
+```
 🤝 Contributing
 
     Fork the repository
@@ -143,3 +140,6 @@ This README provides:
 - Contributing guidelines
 
 You can customize the content (like author name and specific endpoints, etc.) based on your actual implementation.
+
+....
+
