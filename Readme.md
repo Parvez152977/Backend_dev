@@ -102,27 +102,27 @@ Main dependencies include:
 🧪 Testing
    ```bash
       npm test
-```
+   ```
 🤝 Contributing
 
-    Fork the repository
+   Fork the repository
 
-    Create a feature branch (git checkout -b feature/amazing-feature)
+   Create a feature branch (git checkout -b feature/amazing-feature)
 
-    Commit your changes (git commit -m 'Add some amazing feature')
+   Commit your changes (git commit -m 'Add some amazing feature')
 
-    Push to the branch (git push origin feature/amazing-feature)
+   Push to the branch (git push origin feature/amazing-feature)
 
-    Open a Pull Request
+   Open a Pull Request
 
 
 👥 Authors
 
-    Parvez Alam - Initial work
+   Parvez Alam - Initial work
 
 🙏 Acknowledgments
 
-    Hat tip to anyone whose code was used
+  Hat tip to anyone whose code was used
 
     
 
